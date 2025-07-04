@@ -44,6 +44,17 @@ export default function ProjectSection() {
       ],
       link: "https://drive.google.com/drive/folders/1WQLjMsjrhshKoJ_NHQcN1N24vKbo0omO?usp=sharing",
     },
+    {
+      title: "OLAP : E-Commerce Data",
+      description:
+        "This project is an implementation of a data warehouse and OLAP in managing e-commerce data. The system utilizes Power BI for data visualization and SQL Server for data storage and processing. Through this project, sales transaction data and customer data from an e-commerce platform are integrated, processed, and analyzed to generate interactive dashboards and reports, enabling stakeholders to gain valuable business insights and make data-driven decisions efficiently.",
+      image: "/projects/olap.png",
+      tags: [
+        "Power BI",
+        "SQL Server",
+      ],
+      link: "https://drive.google.com/drive/folders/1R_EtbI31AuAdtpnABj9Sl36qsqzTnxTW?usp=sharing",
+    },
   ];
 
   return (
